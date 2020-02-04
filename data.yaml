@@ -1,0 +1,5 @@
+---
+  ssh:
+    user: blah
+    key: blahblah
+    
